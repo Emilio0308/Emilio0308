@@ -35,6 +35,7 @@
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/Emilio0308/MiPortafolio/blob/main/public/skillimg/Vite.png" alt="vite" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Emilio0308/MiPortafolio/blob/main/public/skillimg/PostgresSQL.png" alt="vite" width="40" height="40"/> </a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Emilio0308/MiPortafolio/blob/main/public/skillimg/Sequelize.png" alt="vite" width="40" height="40"/> </a>
+<a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> <img src="https://github.com/Emilio0308/MiPortafolio/blob/main/public/skillimg/Express.png" alt="vite" width="40" height="40"/> </a>
 </p>
 <!-- <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> -->
