@@ -1,4 +1,5 @@
-![Imagen decorativa de tu perfil](https://github.com/Emilio0308/MiPortafolio/blob/main/public/logo.png)
+<!--<img src="https://img.freepik.com/vector-gratis/flujo-diseno-codigo-binario_53876-118589.jpg" alt="Texto Alternativo" style="width: 100%; display: block;">-->
+
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Emilio</h1>
@@ -7,7 +8,7 @@
 
 <!-- - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO) -->
 
-- 🌱 ESTOY ESTUDIANDO **JAVASCRIPT,REACT Js, NODE Js y NEXT JS**
+- 🌱 SOY UN DESARROLLADOR FULLSTACK CON EXPERIENCIA EN REACT Js, NODE Js y NEXT JS
 
 - 👨‍💻 PUEDES VER TODOS MIS PROYECTOS EN [Erivas.com](https://erivas.netlify.app/)
 
